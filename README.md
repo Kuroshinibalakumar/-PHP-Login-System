@@ -16,10 +16,10 @@ This is a basic PHP web application that demonstrates:
 ##  How to Set Up and Run the Project
 
 1. **Download and install XAMPP**  
-   [https://www.apachefriends.org/index.html](https://www.apachefriends.org/index.html)
+ https://www.apachefriends.org/download.html
 
 2. **Clone this  download ZIP**
-   git clone https://github.com/YOUR_USERNAME/php-login-system.git
+ 
 
 
 
